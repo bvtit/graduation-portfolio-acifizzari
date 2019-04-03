@@ -1407,7 +1407,8 @@ body {
     font-size: 20px;
     line-height: 1.42857143;
     color: #333;
-    background-color: #fff
+    background-color: #fff;
+    text-align: center
 }
 
 button,
