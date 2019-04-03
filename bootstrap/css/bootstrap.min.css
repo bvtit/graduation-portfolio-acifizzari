@@ -5758,7 +5758,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 .navbar-inverse .navbar-nav > .active > a:focus,
 .navbar-inverse .navbar-nav > .active > a:hover {
     color: #fff;
-    background-color: #080808
+    background-color: #80ffd4
 }
 
 .navbar-inverse .navbar-nav > .disabled > a,
@@ -5790,7 +5790,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 .navbar-inverse .navbar-nav > .open > a:focus,
 .navbar-inverse .navbar-nav > .open > a:hover {
     color: #fff;
-    background-color: #080808
+    background-color: #80ffd4
 }
 
 @media (max-width:767px) {
