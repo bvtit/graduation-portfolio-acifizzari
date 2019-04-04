@@ -1624,7 +1624,8 @@ h3 {
 
 .h4,
 h4 {
-    font-size: 18px
+    font-size: 18px;
+    color: #030303
 }
 
 .h5,
@@ -4482,7 +4483,7 @@ tbody.collapse.in {
     clear: both;
     font-weight: 400;
     line-height: 1.42857143;
-    color: #333;
+    color: #030303;
     white-space: nowrap
 }
 
@@ -5293,7 +5294,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .container > .navbar-header {
     margin-right: -15px;
     margin-left: -15px;
-    background-color: #80ffd4;
+    background-color: #beffea;
 }
 
 @media (min-width:768px) {
@@ -5729,12 +5730,12 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 }
 
 .navbar-inverse {
-    background-color: #80ffd4;
-    border-color: #80ffd4
+    background-color: #beffea;
+    border-color: #beffea
 }
 
 .navbar-inverse .navbar-brand {
-    color: #9d9d9d
+    color: #5b5e5a
 }
 
 .navbar-inverse .navbar-brand:focus,
@@ -5748,7 +5749,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: #9d9d9d
+    color: #5b5e5a
 }
 
 .navbar-inverse .navbar-nav > li > a:focus,
@@ -5761,7 +5762,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 .navbar-inverse .navbar-nav > .active > a:focus,
 .navbar-inverse .navbar-nav > .active > a:hover {
     color: #fff;
-    background-color: #80ffd4
+    background-color: #beffea
 }
 
 .navbar-inverse .navbar-nav > .disabled > a,
@@ -5793,7 +5794,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 .navbar-inverse .navbar-nav > .open > a:focus,
 .navbar-inverse .navbar-nav > .open > a:hover {
     color: #fff;
-    background-color: #80ffd4
+    background-color: #beffea
 }
 
 @media (max-width:767px) {
@@ -6770,7 +6771,8 @@ button.list-group-item-danger.active:hover {
 }
 
 .panel-body {
-    padding: 15px
+    padding: 15px;
+    background-color: #e6f3ff
 }
 
 .panel-heading {
@@ -7040,7 +7042,7 @@ button.list-group-item-danger.active:hover {
 
 .panel-default > .panel-heading {
     color: #333;
-    background-color: #f5f5f5;
+    background-color: #bed3ff;
     border-color: #ddd
 }
 
